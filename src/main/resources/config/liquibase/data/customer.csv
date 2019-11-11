@@ -1,0 +1,3 @@
+id,name,login_id,date_of_onboarding,pan,first_name,last_name,middle_name,status,location
+1,Jhon Doe,user,11/9/2019,12312881238,Jhon,Doe,,active,NL
+2,Paul Henry,admin,11/10/2019,12312881239,Paul,Henry,,active,NL
